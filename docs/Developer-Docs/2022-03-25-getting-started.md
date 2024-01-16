@@ -10,7 +10,7 @@ purpose: Getting started on development with Digital Services
 Tools Catalog
 - Analytics and Insights
 - Communication and Collaboration
-- Design and Research
+- Design & Research
 - Development
 - Third-party Tools
 - Monitoring
